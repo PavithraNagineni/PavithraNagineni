@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech CSE Student (2023–2027)  
-- 🤖 Interested in **AI/ML, Deep Learning, NLP, Computer Vision**
+- 🤖 Interested in **SDE, AI/ML, Deep Learning**
 - ⚙️ Working on **MLOps + Deployment (Docker, Kubernetes, MLflow, FastAPI)**
 - 💡 Passionate about building real-world, production-ready AI solutions  
 
