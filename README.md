@@ -145,17 +145,6 @@
 
 ---
 
-## 🎯 Currently Targeting
-
-```
-✅ Qualcomm  — Associate Engineer (Software Test Engineering)
-✅ NVIDIA    — Junior Software Engineer
-✅ Cognizant — Software Engineer Fresher
-✅ TCS / Wipro / Infosys — Entry Level SDE Roles
-```
-
----
-
 ## 🤝 Connect With Me
 
 📧 Email: **pavithrachowdarynagineni@gmail.com**
