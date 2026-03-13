@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavithra Nagineni</h1>
-<h3 align="center">AI/ML Engineer | Deep Learning | NLP | Computer Vision | MLOps</h3>
+<h3 align="center">SDE | AI/ML Engineer </h3>
 
 <p align="center">
   <a href="mailto:pavithrachowdarynagineni@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
